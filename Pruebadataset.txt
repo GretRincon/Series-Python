@@ -1,4 +1,0 @@
-Pais,Dia,Contagios,Muertos
-Mexico,108,146837,17141
-Mexico,109,1502256,17580
-Mexico,110,154863,18310
